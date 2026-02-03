@@ -50,7 +50,7 @@ I am Jicong Ao. But you will find me everywhere with handle name ProNeverFake or
 ## Github Overview
 
 <img align="left" alt="ProNeverFake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProNeverFake&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProNeverFake)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Projects that I contributed to
 
