@@ -1,4 +1,4 @@
-![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
+<!-- ![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg) -->
 
 
 [![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
+I am Jicong Ao. But you will find me everywhere with handle name ProNeverFake or Blackbird. I am an Research Engineer at TeleAI.
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
@@ -49,12 +49,12 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 ## Github Overview
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
+<img align="left" alt="ProNeverFake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProNeverFake&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ProNeverFake&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ProNeverFake/BUET-CSE-Moodle-Web-Scraping) <br />
 
 ## My Programming Performances
 
