@@ -24,8 +24,7 @@ I'm Jicong Ao. But you will find me everywhere with handle name ProNeverFake or 
 
 <br />  -->
 
-<img src="https://raw.githubusercontent.com/ProNeverFake/ProNeverFake/main/github-metrics.svg" alt="Metrics" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProNeverFake)
 
 ## Technical Skills:
 
