@@ -24,6 +24,9 @@ I'm Jicong Ao. But you will find me everywhere with handle name ProNeverFake or 
 
 <br />  -->
 
+<img src="https://raw.githubusercontent.com/ProNeverFake/ProNeverFake/main/github-metrics.svg" alt="Metrics" />
+
+
 ## Technical Skills:
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -54,19 +57,6 @@ I'm Jicong Ao. But you will find me everywhere with handle name ProNeverFake or 
 
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA) -->
 
-## Github Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProNeverFake&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNeverFake&layout=compact&theme=dark&hide=html,css&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ProNeverFake&theme=dark" alt="GitHub Streak" />
-</p>
 
 <!-- <img align="left" alt="ProNeverFake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProNeverFake&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProNeverFake)](https://github.com/anuraghazra/github-readme-stats)  -->
