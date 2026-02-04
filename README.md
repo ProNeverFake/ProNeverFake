@@ -23,8 +23,9 @@ I'm Jicong Ao. But you will find me everywhere with handle name ProNeverFake or 
 [<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br />  -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProNeverFake)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## Technical Skills:
 
