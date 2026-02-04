@@ -16,8 +16,8 @@ I'm Jicong Ao. But you will find me everywhere with handle name ProNeverFake or 
 
 <!-- ## Connect with me:
 
-[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="ProNeverFake" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
@@ -38,7 +38,7 @@ I'm Jicong Ao. But you will find me everywhere with handle name ProNeverFake or 
 ![OpenUSD](https://img.shields.io/badge/-OpenUSD-000000?style=flat&logo=usd)
 <!-- ![Ros](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros) -->
 ![Ros2](https://img.shields.io/badge/-ROS2-000000?style=flat&logo=ros)
-![Pinocchio](https://img.shields.io/badge/-Pinocchio-000000?style=flat&logo=pinocchio) <br />
+![Pinocchio](https://img.shields.io/badge/-Pinocchio-000000?style=flat&logo=pinocchio)
 
 <!-- ## Tools:
 
@@ -57,15 +57,15 @@ I'm Jicong Ao. But you will find me everywhere with handle name ProNeverFake or 
 ## Github Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProNeverFake&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProNeverFake&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNeverFake&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNeverFake&layout=compact&theme=dark&hide=html,css&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNeverFake&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ProNeverFake&theme=dark" alt="GitHub Streak" />
 </p>
 
 <!-- <img align="left" alt="ProNeverFake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProNeverFake&show_icons=true" />    &nbsp;
