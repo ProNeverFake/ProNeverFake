@@ -1,8 +1,8 @@
 <!-- ![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg) -->
 
 
-[![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
- <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
+![Visitor Count](https://komarev.com/ghpvc/?username=ProNeverFake&color=green&style=for-the-badge)
+
 
 ### Hi there 👋
 
