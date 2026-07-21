@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Blackbird's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 92, Total Commits  (last year) : 11, Total PRs: 148, Total Issues: 222, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 92, Total Commits  (last year) : 11, Total PRs: 149, Total Issues: 222, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 105.00914851292723;
+        stroke-dashoffset: 104.89798053260046;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >148</text>
+      >149</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
