@@ -6,7 +6,9 @@
 
 ### Hi there 👋
 
-I'm Jicong Ao. But you will find me everywhere with the handle name Blackbird. I am a Research Engineer at TeleAI.
+I'm Jicong Ao. But you will find me everywhere with the name "Blackbird". I am a Research Engineer at TeleAI.
+
+Here is my personal [Profile](https://proneverfake.github.io/).
 
 - 💻 Coding is a good way to talk.
 - 🔭 I’m currently working on simulation scene generation, demonstration generation, and policy training based on the self-developed simulation platform.
